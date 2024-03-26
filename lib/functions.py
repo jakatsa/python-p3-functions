@@ -9,7 +9,7 @@ def greet(name):
 def greet_with_default(name="programmer"):
     print(f"Hello, {name}!")
 
-# Examples usages
+# Example usages
 greet_with_default()
 
 def add(num1, num2):
